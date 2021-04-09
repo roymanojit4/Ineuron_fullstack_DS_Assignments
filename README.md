@@ -1,0 +1,2 @@
+# Ineuron_fullstack_DS_Assignments
+Fullstack data science assignments
